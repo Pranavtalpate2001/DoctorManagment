@@ -4,3 +4,6 @@ package com.example.demo;
 public class CustomerController {
 
 }
+void newCustomer(){
+    
+}
